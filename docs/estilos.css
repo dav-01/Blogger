@@ -1,3 +1,15 @@
+*{
+    margin: 8px 3px 8px 3px;
+}
 body{
-    background-color: aqua;
+    background-color: cornflowerblue;
+}
+.contenedor{
+    height: 100%;
+    width: auto;
+    border: solid burlywood;
+    background-color: blueviolet;
+}
+.titulo{
+    text-align: center;
 }
